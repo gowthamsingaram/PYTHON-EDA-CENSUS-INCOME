@@ -12,7 +12,7 @@ Average age of male is 39.433547 Average age of female is 36.858230
 
 
 3. Identify the qualifications of most of the individuals and display it using an appropriate plot
-Qualifications of most of the individuals is hs-grad(high school graduate). I have used bar plot to show most of the individuals qualifications.
+Qualifications of most of the individuals is hs-grad(high school graduate).I have used bar plot to show most of the individuals qualifications.
 
 
 4. Find the middle most observation of age for different working classes
