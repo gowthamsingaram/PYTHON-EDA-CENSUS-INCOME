@@ -16,7 +16,15 @@ Qualifications of most of the individuals is hs-grad(high school graduate).I hav
 
 
 4. Find the middle most observation of age for different working classes
-
+    workclass         AGE(median)
+    Federal-gov         43.0
+    Local-gov           41.0
+    Never-worked        18.0
+    Private             35.0
+    Self-emp-inc        45.0
+    Self-emp-not-inc    44.0
+    State-gov           39.0
+    Without-pay         57.0
 
 5. What is the percentage of the Asian-Pac-Islander race people in the data?
 The percentage of the Asian-Pac-Islander race people in the data is 3.190934%.
